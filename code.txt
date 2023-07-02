@@ -18,4 +18,6 @@ vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJzamFiZHZtZXNzdGNwLTkzaWZ2am9yNiIsCiAgImFk
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJ2bWVzc2tjcC1nNWxuOWEiLAogICJhZGQiOiAiNDYuNC4xNjkuMTcwIiwKICAicG9ydCI6IDQ2NjE3LAogICJpZCI6ICJjNTIxOTA5ZC05YzkzLTQ3NmMtOTY2MC01Yzc4YjI0ZGJjMDUiLAogICJhaWQiOiAwLAogICJuZXQiOiAia2NwIiwKICAidHlwZSI6ICJub25lIiwKICAidGxzIjogIm5vbmUiLAogICJwYXRoIjogIlRzdUdQQlJFbUgiCn0=
 vless://2eac6178-a21e-490c-b492-41c6aa36fc58@46.4.169.170:47028?type=tcp&path=%2F&host=www.digikala.com&headerType=http#vlesstcp-9wmp020jv9
 vless://a5e9e951-3b7c-4146-e740-3199f743eb14@46.4.169.170:31033?type=kcp&headerType=none&seed=1DQ48qP3UP#kcp-243kh791ko
+vless://f685fb0d-dbdc-451a-a181-06ef9459d443@193.36.84.236:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.digikala.com&fp=firefox&pbk=fWD7Mjmdifj-eR9CE_PW4i5l25UZqBSz8ruud9azcRE&sid=8b3ab2093b644df0&type=tcp&headerType=none#VLESS-SINGBOX
+vless://1bf24d0f-2ccc-4794-a32e-e577878a3b23@80.82.68.126:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.digikala.com&fp=firefox&pbk=9hoaW1VYIy0yraJaxf_JPrHLd8Ih6U4xhZFmlyb-ti8&sid=fb4eb6e8ed784033&type=tcp&headerType=none#singbox-reality-netherland
 
